@@ -1,6 +1,8 @@
 # SignActionInterpreter
 # Décodeur d'actions du langage des signes
 
+![Image description](ressource/img.png "Image Title")
+
 Ce projet permet de détecter et de décoder des actions de la langue des signes en utilisant des modèles de détection d'actions et de points clés. Les modèles utilisés sont basés sur Tensorflow et Keras, et construits avec des couches LSTM pour gérer les séquences de points clés.
 
 ## Comment ça marche
